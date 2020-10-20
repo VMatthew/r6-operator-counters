@@ -50,7 +50,7 @@ I am hoping that this project will be a fun place for open source newcomers (lik
 Key places to look if you want to update something in this project:
 
 * The main webpage - `.\src\html\index.html`
-* Operator images paths - `.src\main\imageLocation.js`
+* Operator images paths - `.src\main\scripts\imageLocation.js`
   - Run `npm install r6operators@latest` to install the latest operator images from [marcopixel r6-operatoricons](https://r6operators.marcopixel.eu)
 * Operator data - `.\src\main\create-operator-json\operators`
 * Operator class logic - `.\src\main\create-operator-json\core`
